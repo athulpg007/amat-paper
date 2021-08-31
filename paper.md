@@ -43,7 +43,7 @@ AMAT can be used to compute aerocapture trajectories as well as key design param
 AMAT can be used to create **aerocapture feasibility charts**, a graphical method to visualize the mission design trade space considering both interplanetary and vehicle design aspects [@Lu2018Titan]. Aerocapture feasibility charts help the mission designer assess the feasible range of vehicle lift-to-drag ratio ($L/D$) or ballistic-coefficient ratio ($\beta_2/\beta_1$) for lift and drag modulation respectively, as well as the feasible range of interplanetary arrival $V_{\infty}$ considering corridor width, deceleration, peak-heat rate, and total heat load. Figure 2 shows an example feasibility chart for lift modulation aerocapture at Neptune created using AMAT.
 
 ![](https://i.imgur.com/BNINxh4.png)
-**Figure 2.** Interplanetary trajectory trade space (left, generated using STOUR [@Petropoulos2004]) and aerocapture feasibility chart for Neptune (right, generated using AMAT). Figure based on the mission design presented in [@Saikia2021; @Girija2020b].  
+**Figure 2.** Interplanetary trajectory trade space (left, generated using STOUR code) and aerocapture feasibility chart for Neptune (right, generated using AMAT). Figure based on the mission design presented in [@Saikia2021; @Girija2020b].  
 
 AMAT can also be used to quickly set up and compute single-event jettison drag modulation aerocapture corridor bounds, and propagate guided trajectories. Figure 3 shows example trajectories for a drag modulation system at Mars computed using AMAT.
 
