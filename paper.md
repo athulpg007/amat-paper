@@ -53,7 +53,7 @@ AMAT can also be used to quickly set up and compute single-event jettison drag m
 AMAT can be used to perform Monte Carlo simulations to assess user-defined guidance schemes and system performance with a vehicle design and interplanetary trajectory considering navigation, atmospheric, and aerodynamic uncertainties as shown in Figure 4.
 
 ![](https://i.imgur.com/Jefki5T.png)
-**Figure 4.** Example of Monte Carlo simulation results showing post-aerocapture orbit parameters for a drag modulation system at Venus (left) and a lift modulation system at Neptune (right). Based on [@Girija2020b].
+**Figure 4.** Examples of Monte Carlo simulation results showing post-aerocapture orbit parameters for a drag modulation system at Venus (left) and a lift modulation system at Neptune (right) computed by using AMAT. Based on [@Girija2020b].
 
 AMAT can be used to generate EDL **carpet plots** which are commonly used to assess the trade space for entry system design considering the limits from deceleration load, peak heat rate, peak stagnation pressure, and total heat load as shown in Figure 5.
 
