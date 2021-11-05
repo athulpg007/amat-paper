@@ -38,7 +38,7 @@ Software tools for identification of trajectories and techniques that enhance or
 AMAT can be used to compute key aerocapture design parameters such as theoretical corridor width (TCW) and stagnation-point heat rate using just a few lines of code. Figure 1 shows an example of undershoot and overshoot trajectories for lift modulation aerocapture at Venus, and the corresponding stagnation-point heat rate computed by using AMAT.
 
 ![](https://i.imgur.com/3XPh6JY.png)
-**Figure 1.** An example of a Venus aerocapture vehicle trajectory and the stagnation-point heating profile computed by using AMAT. Figure based on the parameters listed in [@Craig2005].
+**Figure 1.** An example of a Venus aerocapture vehicle trajectory and the stagnation-point heating profile computed by using AMAT. Figure based on [@Craig2005].
 
 AMAT can be used to create **aerocapture feasibility charts**, a graphical method to visualize the mission design trade space considering both interplanetary and vehicle design aspects [@Lu2018Titan]. Aerocapture feasibility charts help the mission designer assess the feasible range of vehicle lift-to-drag ratio ($L/D$) or ballistic-coefficient ratio ($\beta_2/\beta_1$) for lift and drag modulation respectively, as well as the feasible range of interplanetary arrival $V_{\infty}$ considering corridor width, deceleration, peak-heat rate, and total heat load. Figure 2 shows an example feasibility chart for lift modulation aerocapture at Neptune created by using AMAT.
 
