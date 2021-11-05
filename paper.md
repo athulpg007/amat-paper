@@ -55,10 +55,10 @@ AMAT can be used to perform Monte Carlo simulations to assess user-defined guida
 ![](https://i.imgur.com/Jefki5T.png)
 **Figure 4.** Examples of Monte Carlo simulation results showing post-aerocapture orbit parameters for a drag modulation system at Venus (left) and a lift modulation system at Neptune (right) computed by using AMAT. Based on [@Girija2020b].
 
-AMAT can be used to generate EDL **carpet plots** which are commonly used to assess the trade space for entry system design considering the limits from deceleration load, peak heat rate, peak stagnation pressure, and total heat load as shown in Figure 5.
+AMAT can be used to generate EDL **carpet plots** which are commonly used to assess the trade space for entry system design as shown in Figure 5.
 
 ![](https://i.imgur.com/uDxfzsS.png)
-**Figure 5.** Venus (left), and Titan (right) carpet plots created by using AMAT. [@scott2018preliminary].
+**Figure 5.** Examples of Venus (left), and Titan (right) entry carpet plots created by using AMAT. Based on [@scott2018preliminary].
 
 # AMAT Modules
 
@@ -74,7 +74,7 @@ Table: Modules of AMAT \label{modules_table}
 
 # Documentation and Example Jupyter Notebooks
 
-AMAT documentation along with a number of example Jupyter notebooks are available at https://amat.readthedocs.io. AMAT can be installed from the[Python Package Index](https://pypi.org/project/AMAT/) (`pip install AMAT`).
+AMAT documentation along with a number of example Jupyter notebooks are available at https://amat.readthedocs.io. AMAT can be installed from the [Python Package Index](https://pypi.org/project/AMAT/) (`pip install AMAT`).
 
 # Limitations
 
