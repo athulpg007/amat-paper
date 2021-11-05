@@ -70,7 +70,7 @@ Table: Modules of AMAT \label{modules_table}
 | ------------- | --------------------------------------------------------------------|
 | AMAT.planet   | Stores planetary constants, atmosphere models, entry interface etc. |
 | AMAT.vehicle  | Stores vehicle parameters, guidance scheme, propogate trajectory    |
-| AMAT.launcher | Stores Earth escape performance for a list of launchers             |
+| AMAT.launcher | Stores Earth escape performance for a list of launch vehicles       |
 
 # Documentation and Example Jupyter Notebooks
 
